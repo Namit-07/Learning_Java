@@ -20,7 +20,7 @@ public class CWH_26_arrays {
         //marks[4] = 86;
 
         // 3. Declaration, memory allocation amd initialization together
-
+        int [] marks = {100, 60, 70, 90, 86};
 
         //marks[5] = 96; - throws an error
         System.out.println(marks[4]);

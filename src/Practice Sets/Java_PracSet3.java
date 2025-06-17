@@ -2,7 +2,7 @@ import java.util.Locale;
 
 public class Java_PracSet3 {
     public static void main(String[] args) {
-        // Question 1.
+        // Question 1
         //String name = "NAMIT";
         //System.out.println(name.toLowerCase());
 
@@ -20,8 +20,8 @@ public class Java_PracSet3 {
         //System.out.println(name.indexOf("  "));
 
         // Question 5.
-        String name = "Dear Namit, \n\t this Java course is nice,\n\t\t thanks!!";
-        System.out.println(name);
+        //String name = "Dear Namit, \n\t this Java course is nice,\n\t\t thanks!!";
+        //System.out.println(name);
 
 
 
