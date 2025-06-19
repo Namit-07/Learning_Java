@@ -27,7 +27,7 @@ public class CWH_49_dynamic_method_dispatch {
 
         obj.greet();
         obj.on();
-        obj.music(); // Not allowed
+        //obj.music(); // Not allowed
 
     }
 }
