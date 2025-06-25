@@ -26,7 +26,6 @@ public class cwh_71_runnable {
 
         gun1.start();
         gun2.start();
-
-
     }
 }
+
