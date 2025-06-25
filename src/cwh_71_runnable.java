@@ -7,7 +7,6 @@ class MyThreadRunnable1 implements Runnable{
         }
     }
 }
-
 class MyThreadRunnable2 implements Runnable{
     public void run(){
         int i = 0;
