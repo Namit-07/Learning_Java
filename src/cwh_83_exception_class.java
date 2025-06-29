@@ -3,11 +3,11 @@ import java.util.Scanner;
 class MyException extends Exception{
     @Override
     public String toString(){
-        return super.toString() + "I am toString";
+        return "I am toString";
     }
     @Override
     public String getMessage(){
-        return super.getMessage() + "I am getMessage()";
+        return "I am getMessage()";
     }
 }
 class MaxAgeException extends Exception{
