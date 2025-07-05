@@ -61,5 +61,7 @@ This repository is my digital proof of dedication. I'm documenting everything I 
 Feel free to star ⭐ the repo or follow me to stay updated as I build more projects and level up!  
 Let’s grow together.
 
-mail me for any queries at: namittickoo2006@gmail.com
+Mail me for any queries at: namittickoo2006@gmail.com
+
+Notes has been provided in the master branch
 
